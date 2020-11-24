@@ -27,10 +27,10 @@ author :
   name : GLC
   email : choiyewon127@gmail.com
   github : choiywln
-  twitter : -
+  twitter : choiyewon
   feedburner : fullit
 
-twitter_username: -
+twitter_username: choiyewon
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
